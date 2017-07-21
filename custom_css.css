@@ -1,0 +1,17 @@
+.bg{
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+.imageleft{
+    float: left;
+    margin-left: 15%;
+    margin-top: 10%;
+}
+.textright{
+    padding-left: 60%;
+    padding-top: 10%;
+    padding-right: 10%;
+
+}
